@@ -21,3 +21,37 @@ Below is the schematic built physically on a breadboard.
 
 ![Clock Circuit](https://github.com/JuanCantu1/8-Bit-Computer-/assets/109363196/808fbfc7-c85b-4a38-92df-f665965b8575)
 
+### Registers Design:
+Registers play a crucial role in the functionality of a computer system, serving as storage units for data manipulation. In our 8-bit computer architecture, we have designed three essential registers: Register A, Register B, and the Instruction Register.
+
+#### A Register Schematic:
+Here is the A Register schematic. This design ensures precise data storage and retrieval:
+
+![A Register Schematic](https://github.com/JuanCantu1/8-Bit-Computer-/assets/109363196/c142b729-2b9e-4630-9a39-60845ee87669)
+
+#### B Register Schematic:
+Here is the B Register schematic, designed to complement the functionality of the A Register:
+
+![B Register Schematic](https://github.com/JuanCantu1/8-Bit-Computer-/assets/109363196/cd594bbe-aeb6-4327-a6ad-81137fd53a42)
+
+#### Instruction Register Schematic:
+Here is the Instruction Register. This is a critical component responsible for storing program instructions. We will not be using this until later:
+
+![Instruction Register Schematic ](https://github.com/JuanCantu1/8-Bit-Computer-/assets/109363196/320efa9c-d1ce-4989-9e10-b2eb31fa04df)
+
+### Bus Design:
+Communication between registers is facilitated by the bus, a vital component that enables data transfer within the system.
+
+#### Bus Design:
+Here is an illustration of the bus and how it will operate:
+
+![Bus](https://github.com/JuanCantu1/8-Bit-Computer-/assets/109363196/0e4f028a-9382-48e1-acb3-326a6006ea80)
+
+
+### 8-Bit Registers Circuit Implementation:
+Here is a demonstration of the computer so far. This demonstration shows us that the computer is functioning as needed:
+
+![8 bit registers](https://github.com/JuanCantu1/8-Bit-Computer-/assets/109363196/abc81db9-34c9-42e9-b01b-fef3d7bc36a0)
+
+
+
