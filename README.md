@@ -35,7 +35,7 @@ Here is the B Register schematic, designed to complement the functionality of th
 ![B Register Schematic](https://github.com/JuanCantu1/8-Bit-Computer-/assets/109363196/cd594bbe-aeb6-4327-a6ad-81137fd53a42)
 
 #### Instruction Register Schematic:
-Here is the Instruction Register. This is a critical component responsible for storing program instructions. We will not be using this until later:
+Here is the Instruction Register schematic. This is a critical component responsible for storing program instructions. We will not be using this until later:
 
 ![Instruction Register Schematic ](https://github.com/JuanCantu1/8-Bit-Computer-/assets/109363196/320efa9c-d1ce-4989-9e10-b2eb31fa04df)
 
@@ -52,6 +52,21 @@ Here is an illustration of the bus and how it will operate:
 Here is a demonstration of the computer so far. This demonstration shows us that the computer is functioning as needed:
 
 ![8 bit registers](https://github.com/JuanCantu1/8-Bit-Computer-/assets/109363196/abc81db9-34c9-42e9-b01b-fef3d7bc36a0)
+
+
+### Arithmetic Logic Unit Design:
+The Arithmetic Logic Unit (ALU) stands as a cornerstone in computer architecture, performing essential arithmetic and logical operations crucial for computational tasks. In our 8-bit computer system, the ALU plays a pivotal role in executing arithmetic operations on Registers A and B. Specifically, it facilitates addition and subtraction operations on these registers, empowering the system with computational capabilities.
+
+#### ALU Schematic:
+Here is the ALU schematic. This is a critical component responsible for ensuring seamless arithmetic and logical operations within the system:
+
+![ALU Schematic](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/c4485f40-ada9-43e9-b64b-74be8a38ae13)
+
+### ALU Implementation:
+Here is a demonstration of the ALU, showcasing its functionality and reliability in executing arithmetic operations on Registers A and B:
+
+![ALU Demonstration](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/0d08a7b2-3e6f-4b53-afb8-b84a3ba482fe)
+
 
 
 
