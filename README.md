@@ -86,3 +86,17 @@ The RAM module forms the backbone of our system's memory infrastructure, providi
 Here is a physical implementation of the RAM module on the breadboard, showcasing its integration into our project:
 
 ![RAM Implementation](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/9900f0a7-4a22-4da3-8dad-d137fdda826b)
+
+
+### Program Counter Design:
+The Program Counter (PC) is a vital component of any computer system, responsible for keeping track of the memory address of the next instruction to be executed.
+
+#### PC Schematic:
+The Schematic is shown below:
+
+![PC Schematic](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/5384e9a1-3b24-4d55-be34-0303c068475b)
+
+### PC Implementation:
+The PC being implemented in our project is shown below:
+
+![PC Implementation](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/e8028d8e-09ce-4115-aad7-9be6598a1bed)
