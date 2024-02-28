@@ -1,9 +1,6 @@
-## 8-Bit Computer Project
+## Project Name: 8-Bit Computer
 
-### Introduction:
-Welcome to the 8-Bit Computer project! This repository hosts the source code, schematics, and documentation for building a fully-functional 8-bit computer system from scratch. 
-
-One of the fundamental components of this computer is the clock circuit, which serves as the heartbeat of the system, regulating its operations.
+### Introduction:Welcome to the 8-Bit Computer project! Within this repository lies the culmination of my expertise in computer architecture, digital logic design, and assembly language programming. Here, you'll find everything you need to construct a fully-functional 8-bit computer system from the ground up, including meticulously crafted source code, detailed schematics, and comprehensive documentation. This project not only showcases my proficiency in these domains but also serves as a testament to my dedication to excellence and innovation in the realm of computing
 
 ### Clock Design:
 The clock is an indispensable component of the computer architecture. In this project, we have meticulously designed a versatile clock with the capability to operate in two distinct modes: Monostable and Astable.
