@@ -70,3 +70,23 @@ Here is a demonstration of the ALU, showcasing its functionality and reliability
 
 
 
+### RAM Design:
+RAM, Random Acesss Memory, is... For this module we designed two differet components, the MAR, (Memory Address Register) and the RAM module. The MAR is... The RAM Module is...
+
+#### MAR Schematic:
+Here is the MAR schematic. This is a critical component responsible for...:
+
+![MAR Schematic ](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/cd83211a-450b-4ddb-b0c8-0af53b6fee38)
+
+
+### RAM Module Schematic:
+Here is a schematic of the RAM module:
+
+![RAM Module Schematic ](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/d8439fca-9d91-4470-ab09-fff7ef7d6428)
+
+
+### RAM Implementation:
+Here is the RAM being implemented on the breadboard for our project:
+
+![RAM](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/9900f0a7-4a22-4da3-8dad-d137fdda826b)
+
