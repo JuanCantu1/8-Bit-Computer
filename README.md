@@ -32,7 +32,8 @@ Here is the A Register schematic. This design ensures precise data storage and r
 #### B Register Schematic:
 Here is the B Register schematic, designed to complement the functionality of the A Register:
 
-![B Register Schematic](https://github.com/JuanCantu1/8-Bit-Computer-/assets/109363196/cd594bbe-aeb6-4327-a6ad-81137fd53a42)
+![8 bit registers](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/2ba1e1ef-169e-4903-a4e8-6c9d3ffb5f56)
+
 
 #### Instruction Register Schematic:
 Here is the Instruction Register schematic. This is a critical component responsible for storing program instructions. We will not be using this until later:
