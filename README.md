@@ -32,7 +32,7 @@ Here is the A Register schematic. This design ensures precise data storage and r
 #### B Register Schematic:
 Here is the B Register schematic, designed to complement the functionality of the A Register:
 
-![8 bit registers](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/2ba1e1ef-169e-4903-a4e8-6c9d3ffb5f56)
+![B Register Schematic](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/de4839b6-c20b-4750-891c-9199600d56e0)
 
 
 #### Instruction Register Schematic:
@@ -52,7 +52,7 @@ Here is an illustration of the bus and how it will operate:
 ### 8-Bit Registers Circuit Implementation:
 Here is a demonstration of the computer so far. This demonstration shows us that the computer is functioning as needed:
 
-![8 bit registers](https://github.com/JuanCantu1/8-Bit-Computer-/assets/109363196/abc81db9-34c9-42e9-b01b-fef3d7bc36a0)
+![8 bit registers](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/2ba1e1ef-169e-4903-a4e8-6c9d3ffb5f56)
 
 
 ### Arithmetic Logic Unit Design:
