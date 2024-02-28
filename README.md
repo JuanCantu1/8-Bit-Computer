@@ -96,3 +96,13 @@ The Schematic is shown below:
 The PC being implemented in our project is shown below:
 
 ![PC Implementation](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/e8028d8e-09ce-4115-aad7-9be6598a1bed)
+
+### Computer Progress
+Here's an image showcasing the progress of the entire computer system assembled on breadboards:
+
+![Computer Progress](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/9ae50fb7-7df9-4e77-a917-8e2dda09a402)
+
+### Design Plans
+Looking forward, here's a sketch outlining the design plans for the next phase of development:
+
+![Design Plans](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/225c58b5-3137-4716-a707-10df7cc27df2)
