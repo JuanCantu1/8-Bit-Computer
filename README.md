@@ -69,25 +69,20 @@ Here is a demonstration of the ALU, showcasing its functionality and reliability
 ![ALU Demonstration](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/0d08a7b2-3e6f-4b53-afb8-b84a3ba482fe)
 
 
-
-
 ### RAM Design:
-RAM, Random Acesss Memory, is... For this module we designed two differet components, the MAR, (Memory Address Register) and the RAM module. The MAR is... The RAM Module is...
+RAM, Random Access Memory, is a fundamental component of a computer system, responsible for temporary data storage and retrieval. In our 8-bit computer project, we have designed two essential components: the Memory Address Register (MAR) and the RAM module, both crucial for efficient data handling.
 
 #### MAR Schematic:
-Here is the MAR schematic. This is a critical component responsible for...:
+The MAR, or Memory Address Register, serves as a critical component responsible for facilitating memory address management within the system. Explore the schematic below:
 
-![MAR Schematic ](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/cd83211a-450b-4ddb-b0c8-0af53b6fee38)
-
+![MAR Schematic](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/cd83211a-450b-4ddb-b0c8-0af53b6fee38)
 
 ### RAM Module Schematic:
-Here is a schematic of the RAM module:
+The RAM module forms the backbone of our system's memory infrastructure, providing fast and efficient data storage capabilities. View the Schematic below:
 
-![RAM Module Schematic ](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/d8439fca-9d91-4470-ab09-fff7ef7d6428)
-
+![RAM Module Schematic](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/d8439fca-9d91-4470-ab09-fff7ef7d6428)
 
 ### RAM Implementation:
-Here is the RAM being implemented on the breadboard for our project:
+Here is a physical implementation of the RAM module on the breadboard, showcasing its integration into our project:
 
-![RAM](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/9900f0a7-4a22-4da3-8dad-d137fdda826b)
-
+![RAM Implementation](https://github.com/JuanCantu1/8-Bit-Computer/assets/109363196/9900f0a7-4a22-4da3-8dad-d137fdda826b)
